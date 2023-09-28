@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/search-users/static/js/main.8c2099fb.js",
+    "index.html": "/search-users/index.html",
+    "main.8c2099fb.js.map": "/search-users/static/js/main.8c2099fb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8c2099fb.js"
+  ]
+}
